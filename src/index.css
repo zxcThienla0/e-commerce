@@ -1,11 +1,28 @@
 @import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
 
-*{
-  margin: 0;
-  padding: 0;
+* {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 a {
   text-decoration: inherit;
 }
 
+body {
+  margin: 0;
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.textv2 {
+  font-family: "Aboreto", system-ui;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.textv3 {
+  font-family: "Arial", sans-serif;
+}
