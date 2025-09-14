@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "Черная кожаная куртка",
+    "price": 4500,
+    "image": "https://img.joomcdn.net/9f2c652c8a71deb81e3e1ebf7d69f5a977fe042b_original.jpeg",
+    "size": ["S", "M", "L"],
+    "isNew": false,
+    "gender": "man"
+  },
+  {
+    "id": 2,
+    "title": "Белая хлопковая футболка",
+    "price": 900,
+    "image": "https://img.joomcdn.net/506d6d506f1241f633cc0a098f7874e5b7e91f66_original.jpeg",
+    "size": ["S", "M", "L", "XL"],
+    "isNew": false,
+    "gender": "man"
+  },
+  {
+    "id": 3,
+    "title": "Джинсы стрейч темно-синие",
+    "price": 2200,
+    "image": "https://img.joomcdn.net/4608e92a52e0fee26bbb3fda132e034b22c969e0_original.jpeg",
+    "size": ["S", "M", "L"],
+    "isNew": false,
+    "gender": "man"
+  },
+  {
+    "id": 4,
+    "title": "Спортивная толстовка с капюшоном",
+    "price": 1800,
+    "image": "https://img.joomcdn.net/a7873887b19a7051aed9ceee2e2508e6a77cd055_original.jpeg",
+    "size": ["M", "L", "XL"],
+    "isNew": false,
+    "gender": "man"
+  },
+  {
+    "id": 5,
+    "title": "Летнее платье в горошек",
+    "price": 1600,
+    "image": "https://img.joomcdn.net/ad719939614aaab5d439da814775ebc6736b1b0b_original.jpeg",
+    "size": ["S", "M"],
+    "isNew": true,
+    "gender": "woman"
+  },
+  {
+    "id": 6,
+    "title": "Офисная рубашка с длинным рукавом",
+    "price": 1400,
+    "image": "https://img.joomcdn.net/1e1dac43e21d74aa3d025cfc3ff08e0309ce9231_original.jpeg",
+    "size": ["M", "L", "XL"],
+    "isNew": false,
+    "gender": "woman"
+  },
+  {
+    "id": 7,
+    "title": "Шерстяной свитер оверсайз",
+    "price": 3200,
+    "image": "https://img.joomcdn.net/c93df2fff3d5d277993ff12111a9258a9faa1fad_1024_1024.jpeg",
+    "size": ["M", "L"],
+    "isNew": true,
+    "gender": "woman"
+  },
+  {
+    "id": 8,
+    "title": "Летняя рубашка с коротким рукавом",
+    "price": 5500,
+    "image": "https://img.joomcdn.net/c84830d7c0396621861ccfb561282c4a5843cb34_original.jpeg",
+    "size": ["L", "XL"],
+    "isNew": false,
+    "gender": "man"
+  },
+  {
+    "id": 9,
+    "title": "Спортивные шорты",
+    "price": 1100,
+    "image": "https://img.joomcdn.net/224867e426fe0f479e2b36603ab0f80a3cd9a9cd_1024_1024.jpeg",
+    "size": ["S", "M", "L"],
+    "isNew": true,
+    "gender": "man"
+  },
+  {
+    "id": 10,
+    "title": "Платье-футляр черное",
+    "price": 2800,
+    "image": "https://img.joomcdn.net/d1c6595bdc34159fb5af5fe2efd06ba644299837_original.jpeg",
+    "size": ["S", "M", "L"],
+    "isNew": false,
+    "gender": "woman"
+  },
+  {
+    "id": 11,
+    "title": "Куртка-пуховик зимняя",
+    "price": 7200,
+    "image": "https://img.joomcdn.net/3c0307b2610631453e7bce55e51117e04e89acdc_original.jpeg",
+    "size": ["M", "L", "XL"],
+    "isNew": true,
+    "gender": "woman"
+  },
+  {
+    "id": 12,
+    "title": "Футболка с принтом 'Sunset'",
+    "price": 850,
+    "image": "https://img.joomcdn.net/0581d8172b09c69e3d44d63fd4382ba1baceae4b_original.jpeg",
+    "size": ["S", "M", "L"],
+    "isNew": false,
+    "gender": "man"
+  },
+  {
+    "id": 13,
+    "title": "Юбка-миди в клетку",
+    "price": 1900,
+    "image": "https://img.joomcdn.net/0d56c85b439e41ab986464e3e36f541e92f65396_original.jpeg",
+    "size": ["S", "M"],
+    "isNew": false,
+    "gender": "woman"
+  },
+  {
+    "id": 14,
+    "title": "Куртка-пуховик зимняя",
+    "price": 4200,
+    "image": "https://img.joomcdn.net/f3044d3d49543eb1afc4c525323a6508cb15123a_original.jpeg",
+    "size": ["M", "L", "XL"],
+    "isNew": false,
+    "gender": "man"
+  },
+  {
+    "id": 15,
+    "title": "Свитшот с вышивкой",
+    "price": 2100,
+    "image": "https://img.joomcdn.net/24bac8129dbc376bd00a52a01a1620a32d7ea52c_original.jpeg",
+    "size": ["M", "L", "XL"],
+    "isNew": false,
+    "gender": "woman"
+  },
+  {
+    "id": 16,
+    "title": "Белые летние брюки",
+    "price": 1700,
+    "image": "https://img.joomcdn.net/dda924112a01fa5142a629e2a23e03b802741623_original.jpeg",
+    "size": ["S", "M", "L"],
+    "isNew": false,
+    "gender": "woman"
+  },
+  {
+    "id": 17,
+    "title": "Синяя блузка с воланами",
+    "price": 1300,
+    "image": "https://img.joomcdn.net/7c561e433838b2e9be43a4714119180507d165e6_original.jpeg",
+    "size": ["S", "M"],
+    "isNew": false,
+    "gender": "woman"
+  },
+  {
+    "id": 18,
+    "title": "Пальто бежевое",
+    "price": 6800,
+    "image": "https://img.joomcdn.net/1e4ddb4ec5eda3161eded24e8c131c39a9e8e1c1_original.jpeg",
+    "size": ["M", "L", "XL"],
+    "isNew": true,
+    "gender": "woman"
+  },
+  {
+    "id": 19,
+    "title": "Весенний спортивный костюм",
+    "price": 600,
+    "image": "https://img.joomcdn.net/9fe2fff257640bc6c9762ec08af3160e61431cf4_original.jpeg",
+    "size": ["L", "XL"],
+    "isNew": false,
+    "gender": "man"
+  },
+  {
+    "id": 20,
+    "title": "Рубашка-фланель в клетку",
+    "price": 1600,
+    "image": "https://img.joomcdn.net/586d209e8db87cdb21ac4b08f0737ee0819e13bf_original.jpeg",
+    "size": ["M", "L", "XL"],
+    "isNew": true,
+    "gender": "man"
+  },
+  {
+    "id": 21,
+    "title": "Костюмные брюки",
+    "price": 2400,
+    "image": "https://img.joomcdn.net/ccf989c381f76023f7540e854fff7c15a9d5014f_original.jpeg",
+    "size": ["M", "L"],
+    "isNew": false,
+    "gender": "man"
+  },
+  {
+    "id": 22,
+    "title": "Летняя шляпа",
+    "price": 950,
+    "image": "https://img.joomcdn.net/4e22dee691553c14b6207ae90f666b3dd11ed9a7_original.jpeg",
+    "size": ["S", "M", "L", "XL"],
+    "isNew": true,
+    "gender": "woman"
+  },
+  {
+    "id": 23,
+    "title": "Шарф шерстяной",
+    "price": 1200,
+    "image": "https://img.joomcdn.net/253290b8d7cf6a87204bc16f802161793a496ffe_original.jpeg",
+    "size": ["S", "M", "L", "XL"],
+    "isNew": false,
+    "gender": "woman"
+  },
+  {
+    "id": 24,
+    "title": "Ветрозащитная шаль",
+    "price": 3100,
+    "image": "https://img.joomcdn.net/9f8cd37090d12cf950d1c089b5d3b30d8537ba40_original.jpeg",
+    "size": ["S", "M", "L", "XL"],
+    "isNew": true,
+    "gender": "man"
+  },
+  {
+    "id": 25,
+    "title": "Ремень кожаный",
+    "price": 1300,
+    "image": "https://img.joomcdn.net/7b8c7bf01bc7b720303cf9cd215fe5bb69cd4514_original.jpeg",
+    "size": ["S", "M", "L"],
+    "isNew": false,
+    "gender": "man"
+  },
+  {
+    "id": 26,
+    "title": "Купальник бикини",
+    "price": 1400,
+    "image": "https://img.joomcdn.net/19e7a6de47c64c2d484dbf6585796de5737fd1bc_original.jpeg",
+    "size": ["S", "M"],
+    "isNew": true,
+    "gender": "woman"
+  },
+  {
+    "id": 27,
+    "title": "Спортивный костюм",
+    "price": 3800,
+    "image": "https://img.joomcdn.net/edfb677fc0859289c0a5426ecdfe1e491c8cbbbd_original.jpeg",
+    "size": ["M", "L", "XL"],
+    "isNew": false,
+    "gender": "woman"
+  },
+  {
+    "id": 28,
+    "title": "Леггинсы для йоги",
+    "price": 1200,
+    "image": "https://img.joomcdn.net/c762e6af207cc737c168600a9dd8f135322f849c_original.jpeg",
+    "size": ["S", "M", "L"],
+    "isNew": true,
+    "gender": "woman"
+  },
+  {
+    "id": 29,
+    "title": "Платье-макси летнее",
+    "price": 2600,
+    "image": "https://img.joomcdn.net/3b99bca4f3ed8ced285542da4896e76c3fbed762_original.jpeg",
+    "size": ["S", "M", "L"],
+    "isNew": true,
+    "gender": "woman"
+  },
+  {
+    "id": 30,
+    "title": "Футболка спортивная",
+    "price": 4800,
+    "image": "https://img.joomcdn.net/8ca6ea86efe264e0a9dfd917fab1de9e266cdd5e_original.jpeg",
+    "size": ["S", "M", "L"],
+    "isNew": false,
+    "gender": "man"
+  }
+]
