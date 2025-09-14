@@ -28,10 +28,10 @@ export default function Header() {
           </button>
 
           <div className="hidden md:flex items-center space-x-6 text-sm font-medium text-gray-700">
-            <Link to="/" className="hover:text-blue-600 hover:underline underline-offset-2 transition-colors">
+            <Link to="/e-commerce/" className="hover:text-blue-600 hover:underline underline-offset-2 transition-colors">
               Home
             </Link>
-            <Link to="/shop" className="hover:text-blue-600 hover:underline underline-offset-2 transition-colors">
+            <Link to="/e-commerce/shop" className="hover:text-blue-600 hover:underline underline-offset-2 transition-colors">
               Catalog
             </Link>
           </div>
