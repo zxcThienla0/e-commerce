@@ -127,7 +127,7 @@ export const Card: React.FC<CardProps> = ({ product }) => {
                 )}
 
                 {size && size.length > 0 && (
-                  <div className="flex flex-wrap gap-1 mt-2 pt-2 border-t border-gray-100">
+                  <div className="flex flex-wrap gap-1 mt-2 pt-2 border-t border-gray-100 mb-4">
                     {size.map((s) => (
                       <span
                         key={s}
