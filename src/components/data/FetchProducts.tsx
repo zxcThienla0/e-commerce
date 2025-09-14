@@ -19,7 +19,7 @@ export const ProductProvider: React.FC<{ children: React.ReactNode }> = ({ child
     const fetchProducts = async () => {
       try {
         setLoading(true);
-        const response = await axios.get<Product[]>('./db.json');
+        const response = await axios.get<Product[]>('/e-commerce/db.json');
         setProducts(response.data);
         setError(null);
       } catch (err) {
