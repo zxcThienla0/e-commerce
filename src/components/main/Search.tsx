@@ -8,7 +8,7 @@ export default function Searching() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (search.trim()) {
-      navigate(`/shop?search=${encodeURIComponent(search.trim())}`);
+      navigate(`/e-commerce/shop?search=${encodeURIComponent(search.trim())}`);
     }
   };
 
@@ -25,7 +25,7 @@ export default function Searching() {
         <p className="inline-block text-sm md:text-base font-medium text-gray-700 uppercase tracking-wide">
           <button
             type="button"
-            onClick={() => {navigate('/shop?gender=man');
+            onClick={() => {navigate('/e-commerce/shop?gender=man');
               window.scrollTo(0, 0);}
             }
             className="hover:text-blue-600 hover:underline underline-offset-2 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 rounded px-2 py-1"
@@ -37,7 +37,7 @@ export default function Searching() {
         <p className="inline-block text-sm md:text-base font-medium text-gray-700 uppercase tracking-wide">
           <button
             type="button"
-            onClick={() => {navigate('/shop?gender=woman');
+            onClick={() => {navigate('/e-commerce/shop?gender=woman');
               window.scrollTo(0, 0);}
             }
             className="hover:text-blue-600 hover:underline underline-offset-2 transition-colors focus:outline-none focus:ring-2 focus:ring-blue-500 rounded px-2 py-1"

@@ -41,7 +41,7 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
 
         <nav className="px-6 py-8 space-y-6">
           <Link
-            to="/"
+            to="/e-commerce/"
             onClick={onClose}
             className="block text-lg font-medium text-gray-800 hover:text-blue-600 transition-colors"
           >
@@ -49,7 +49,7 @@ export default function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
           </Link>
 
           <Link
-            to="/shop"
+            to="/e-commerce/shop"
             onClick={onClose}
             className="block text-lg font-medium text-gray-800 hover:text-blue-600 transition-colors"
           >

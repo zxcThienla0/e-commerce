@@ -16,10 +16,10 @@ export default function Footer() {
                     <div>
                         <h4 className="text-black text-sm font-semibold mb-4">Информация</h4>
                         <ul className="space-y-2 text-sm">
-                            <li><Link to="/about" onClick={() => {window.scrollTo(0, 0)}} className="hover:text-white transition-colors">О нас</Link></li>
-                            <li><Link to="/shipping" onClick={() => {window.scrollTo(0, 0)}} className="hover:text-white transition-colors">Доставка</Link></li>
-                            <li><Link to="/returns" onClick={() => {window.scrollTo(0, 0)}} className="hover:text-white transition-colors">Возврат</Link></li>
-                            <li><Link to="/faq" onClick={() => {window.scrollTo(0, 0)}} className="hover:text-white transition-colors">Частые вопросы</Link></li>
+                            <li><Link to="/e-commerce/about" onClick={() => {window.scrollTo(0, 0)}} className="hover:text-white transition-colors">О нас</Link></li>
+                            <li><Link to="/e-commerce/shipping" onClick={() => {window.scrollTo(0, 0)}} className="hover:text-white transition-colors">Доставка</Link></li>
+                            <li><Link to="/e-commerce/returns" onClick={() => {window.scrollTo(0, 0)}} className="hover:text-white transition-colors">Возврат</Link></li>
+                            <li><Link to="/e-commerce/faq" onClick={() => {window.scrollTo(0, 0)}} className="hover:text-white transition-colors">Частые вопросы</Link></li>
                         </ul>
                     </div>
 
@@ -53,8 +53,8 @@ export default function Footer() {
                     © {new Date().getFullYear()} YourShop. Все права защищены.
                     <br />
                     <span className="mt-2 block">
-                        <Link to="/privacy" onClick={() => {window.scrollTo(0, 0)}} className="hover:text-white underline">Политика конфиденциальности</Link> •
-                        <Link to="/terms" onClick={() => {window.scrollTo(0, 0)}} className="hover:text-white underline ml-2">Условия использования</Link>
+                        <Link to="/e-commerce/privacy" onClick={() => {window.scrollTo(0, 0)}} className="hover:text-white underline">Политика конфиденциальности</Link> •
+                        <Link to="/e-commerce/terms" onClick={() => {window.scrollTo(0, 0)}} className="hover:text-white underline ml-2">Условия использования</Link>
                     </span>
                 </div>
 

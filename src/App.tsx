@@ -30,15 +30,15 @@ function App() {
         <CartProvider>
           <Header />
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/shop" element={<Shop />} />
-            <Route path="/cart" element={<Cart />} />
-            <Route path="/about" element={<AboutPage />} />
-            <Route path="/shipping" element={<ShippingPage />} />
-            <Route path="/returns" element={<ReturnsPage />} />
-            <Route path="/faq" element={<FAQPage />} />
-            <Route path="/privacy" element={<PrivacyPage />} />
-            <Route path="/terms" element={<TermsPage />} />
+            <Route path="/e-commerce/" element={<Home />} />
+            <Route path="/e-commerce/shop" element={<Shop />} />
+            <Route path="/e-commerce/cart" element={<Cart />} />
+            <Route path="/e-commerce/about" element={<AboutPage />} />
+            <Route path="/e-commerce/shipping" element={<ShippingPage />} />
+            <Route path="/e-commerce/returns" element={<ReturnsPage />} />
+            <Route path="/e-commerce/faq" element={<FAQPage />} />
+            <Route path="/e-commerce/privacy" element={<PrivacyPage />} />
+            <Route path="/e-commerce/terms" element={<TermsPage />} />
           </Routes>
           <Footer />
         </CartProvider>

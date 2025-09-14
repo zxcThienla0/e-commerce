@@ -1,6 +1,7 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import axios from 'axios';
 import type { Product } from '../types/CardDataType';
+import productsData from '../../../public/e-commerce/db.json'
 
 interface ProductContextType {
   products: Product[];
@@ -19,8 +20,8 @@ export const ProductProvider: React.FC<{ children: React.ReactNode }> = ({ child
     const fetchProducts = async () => {
       try {
         setLoading(true);
-        const response = await axios.get<Product[]>('/e-commerce/db.json');
-        setProducts(response.data);
+        const response = productsData;
+        setProducts(response);
         setError(null);
       } catch (err) {
         setError('Не удалось загрузить товары');

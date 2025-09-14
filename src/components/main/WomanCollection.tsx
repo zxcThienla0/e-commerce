@@ -61,7 +61,7 @@ const ManCollection = ({ items, itemsPerSlide = 3 }: SliderProps) => {
           <p>Shirt</p>
         </div>
         <button onClick={() => {
-          navigate('/shop?gender=man');
+          navigate('/e-commerce/shop?gender=man');
           window.scrollTo(0, 0);
         }} className="text-[#5E5E5E] hover:opacity-75 transition-[0.3s]">See all</button>
       </div>

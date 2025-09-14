@@ -94,7 +94,7 @@ const NewCollection = ({ items, itemsPerSlide = 3 }: SliderProps) => {
                 </div>
             </div>
             <div className="textv2 text-[16px] xl:hidden pt-4">
-                <Link to="/shop" className="mr-8 bg-[url(./pngshki/Vector1.png)] bg-no-repeat bg-[length:30px] bg-[position:calc(90%+8px)_center]
+                <Link to="/e-commerce/shop" className="mr-8 bg-[url(./pngshki/Vector1.png)] bg-no-repeat bg-[length:30px] bg-[position:calc(90%+8px)_center]
                                 bg-[#D9D9D9] max-w-66,25 pl-4 pb-2 pr-20 pt-3 mt-4">Go To Shop</Link>
                 <button className="w-10 h-10 text-2xl border-1 mr-2 hover:scale-110 transition-[1]"
                     onClick={prev}

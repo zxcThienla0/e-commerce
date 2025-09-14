@@ -39,7 +39,7 @@ export default function ReturnsPage() {
       </div>
 
       <div className="mt-12 text-center">
-        <Link to="/" onClick={() => {window.scrollTo(0, 0);}} className="text-blue-600 hover:text-blue-800 font-medium underline">
+        <Link to="/e-commerce/" onClick={() => {window.scrollTo(0, 0);}} className="text-blue-600 hover:text-blue-800 font-medium underline">
           ← Вернуться на главную
         </Link>
       </div>

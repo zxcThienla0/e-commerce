@@ -38,7 +38,7 @@ export default function Header() {
         </div>
 
         <div className="flex items-center justify-center md:order-1 max-sm:hidden">
-          <Link to="/">
+          <Link to="/e-commerce/">
             <img src={Logo} alt="Логотип магазина" className="w-10 h-10 md:w-10 md:h-10 hover:scale-110 transition-transform duration-300" />
           </Link>
         </div>
