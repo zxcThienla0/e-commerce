@@ -125,7 +125,7 @@ export default function CartDrawer({ onClose }: CartDrawerProps) {
           </div>
 
           <Link
-            to="/cart"
+            to="/e-commerce/cart"
             onClick={onClose}
             className="block w-full bg-blue-600 text-white text-center py-3 rounded-lg font-medium text-base hover:bg-blue-700 transition-colors mb-4"
           >
